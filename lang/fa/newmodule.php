@@ -15,11 +15,12 @@
 // You should have received a copy of the GNU General Public License
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
+
 /**
- * Internal library of functions for module redprofile
+ * Farsi strings for redprofile
  *
- * All the redprofile specific functions, needed to implement the module
- * logic, should go here. Never include this file from your lib.php!
+ * You can have a rather longer description of the file as well,
+ * if you like, and it can span multiple lines.
  *
  * @package    mod_redprofile
  * @copyright  2011 Your Name
@@ -28,12 +29,12 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-/**
- * Does something really useful with the passed things
- *
- * @param array $things
- * @return object
- */
-//function redprofile_do_something_useful(array $things) {
-//    return new stdClass();
-//}
+$string['modulename'] = 'redprofile';
+$string['modulenameplural'] = 'redprofiles';
+$string['modulename_help'] = 'Use the redprofile module for... | The redprofile module allows...';
+$string['redprofilefieldset'] = 'Custom example fieldset';
+$string['redprofilename'] = 'redprofile name';
+$string['redprofilename_help'] = 'This is the content of the help tooltip associated with the redprofilename field. Markdown syntax is supported.';
+$string['redprofile'] = 'redprofile';
+$string['pluginadministration'] = 'redprofile administration';
+$string['pluginname'] = 'redprofile';

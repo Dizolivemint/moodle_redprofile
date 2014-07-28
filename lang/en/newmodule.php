@@ -17,24 +17,24 @@
 
 
 /**
- * English strings for newmodule
+ * English strings for redprofile
  *
  * You can have a rather longer description of the file as well,
  * if you like, and it can span multiple lines.
  *
- * @package    mod_newmodule
+ * @package    mod_redprofile
  * @copyright  2011 Your Name
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['modulename'] = 'newmodule';
-$string['modulenameplural'] = 'newmodules';
-$string['modulename_help'] = 'Use the newmodule module for... | The newmodule module allows...';
-$string['newmodulefieldset'] = 'Custom example fieldset';
-$string['newmodulename'] = 'newmodule name';
-$string['newmodulename_help'] = 'This is the content of the help tooltip associated with the newmodulename field. Markdown syntax is supported.';
-$string['newmodule'] = 'newmodule';
-$string['pluginadministration'] = 'newmodule administration';
-$string['pluginname'] = 'newmodule';
+$string['modulename'] = 'redprofile';
+$string['modulenameplural'] = 'redprofiles';
+$string['modulename_help'] = 'Use the redprofile module for... | The redprofile module allows...';
+$string['redprofilefieldset'] = 'Custom example fieldset';
+$string['redprofilename'] = 'redprofile name';
+$string['redprofilename_help'] = 'This is the content of the help tooltip associated with the redprofilename field. Markdown syntax is supported.';
+$string['redprofile'] = 'redprofile';
+$string['pluginadministration'] = 'redprofile administration';
+$string['pluginname'] = 'redprofile';
